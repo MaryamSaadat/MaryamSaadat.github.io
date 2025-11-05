@@ -1,5 +1,24 @@
 ---
 layout: book-review
+title: Maybe You Should Talk to Someone
+author: Lori Gottlieb
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1547189796i/37570546.jpg
+olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: classics crime historical-fiction mystery novels thriller
+tags: top-100
+buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
+started: 2024-01-01
+finished: 2024-02-01
+released: 1969
+stars: 5
+goodreads_review: 6318556633
+status: Finished
+---
+
+
+<!-- ---
+layout: book-review
 title: The Godfather
 author: Mario Puzo
 cover: assets/img/book_covers/the_godfather.jpg
@@ -24,4 +43,4 @@ Donec efficitur ultrices purus sit amet imperdiet. Nam consequat metus in erat s
 
 Nulla sit amet venenatis odio. Suspendisse ac lacus quis augue mollis tempus vel in lorem. Donec augue turpis, eleifend nec nibh eu, elementum dictum metus. Proin ut est ligula. Etiam vehicula facilisis metus, sit amet consectetur risus ullamcorper porttitor. In congue nibh quis sollicitudin iaculis. Donec a mollis lorem, non mollis lacus. Nulla et leo ex. Aliquam erat volutpat. Nam sit amet tincidunt mauris. Vivamus vitae est sit amet nisi semper egestas. Donec in diam pharetra, commodo diam vitae, imperdiet ligula. Cras iaculis ac diam eget vehicula. Proin suscipit ante enim, quis vehicula mi porta bibendum. Aliquam a diam porttitor, sollicitudin justo vitae, tempor odio.
 
-Cras fermentum dignissim pretium. Donec quis turpis eu neque lacinia facilisis in sit amet nibh. Nulla non tortor ultricies, euismod est in, blandit nibh. Ut a neque metus. Sed convallis condimentum nibh quis finibus. Praesent aliquam sem iaculis eros maximus accumsan. Nulla venenatis mauris id aliquet maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim vitae ex porttitor vestibulum sed eget nibh. Suspendisse accumsan feugiat quam eget ultricies.
+Cras fermentum dignissim pretium. Donec quis turpis eu neque lacinia facilisis in sit amet nibh. Nulla non tortor ultricies, euismod est in, blandit nibh. Ut a neque metus. Sed convallis condimentum nibh quis finibus. Praesent aliquam sem iaculis eros maximus accumsan. Nulla venenatis mauris id aliquet maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim vitae ex porttitor vestibulum sed eget nibh. Suspendisse accumsan feugiat quam eget ultricies. -->
