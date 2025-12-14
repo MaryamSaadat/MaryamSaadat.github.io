@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Cheema]
+  first_name: [Maryam, S.]
 
   style: apa
   locale: en
@@ -341,7 +341,9 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-
+  - _pages/blog.md
+  - _posts/
+  - _projects/
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
