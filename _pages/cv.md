@@ -10,7 +10,7 @@
 # toc:
 #   sidebar: left
 layout: default
-permalink: /cv/
+permalink: /assets/pdf/Maryam_S_Cheema.pdf
 # permalink: /assets/pdf/Maryam_S_Cheema.pdf
 title: cv
 nav: true
