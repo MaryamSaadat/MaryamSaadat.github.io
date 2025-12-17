@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/Maryam_S_Cheema.pdf";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
