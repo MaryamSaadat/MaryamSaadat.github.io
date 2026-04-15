@@ -33,6 +33,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-Hi! I am Maryam, a first-year PhD student at [Arizona State University](https://www.asu.edu/). I am part of the TEAL lab, co-advised by [Hasti Seifi](https://hastiseifi.com/) and [Pooyan Fazli](https://pooyanfazli.com/). My research focuses on AI-powered accessibility for blind and low vision users.
+Hi! I am Maryam, a second-year PhD student at [Arizona State University](https://www.asu.edu/). I am part of the TEAL lab, co-advised by [Hasti Seifi](https://hastiseifi.com/) and [Pooyan Fazli](https://pooyanfazli.com/). My research focuses on AI-powered interactive systems for blind and low vision users.
 
 Previously, I completed my Master’s in Computer Science from Arizona State under the guidance of [Hasti Seifi](https://hastiseifi.com/), and a Bachelor’s degree in Computer Science from Lahore University of Management Sciences [(LUMS)](https://lums.edu.pk/).
