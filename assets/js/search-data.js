@@ -57,6 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/gentleman/";
+            },},{id: "books-i-who-have-never-known-men",
+          title: 'I Who Have Never Known Men',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/knownmen/";
             },},{id: "books-lady-tan-s-circle-of-women",
           title: 'Lady Tan’s Circle of Women',
           description: "",
@@ -102,8 +107,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/town_like_alice/";
+            },},{id: "books-the-anxious-generation",
+          title: 'The Anxious Generation',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/anxious/";
+            },},{id: "books-my-brilliant-friend",
+          title: 'My Brilliant Friend',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/friend/";
+            },},{id: "books-the-black-jacobins-toussaint-l-39-ouverture-and-the-san-domingo-revolution",
+          title: 'The Black Jacobins Toussaint L&amp;#39;Ouverture and the San Domingo Revolution',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/jacobins/";
+            },},{id: "books-the-story-of-a-new-name",
+          title: 'The Story of a New Name',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/newname/";
+            },},{id: "books-those-who-leave-and-those-who-stay",
+          title: 'Those Who Leave and Those Who Stay',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thosehwostay/";
             },},{id: "news-presented-describepro-at-assets-2025",
           title: 'Presented DescribePro at ASSETS 2025',
+          description: "",
+          section: "News",},{id: "news-poster-on-vidscribe-accepted-to-chi-ea-26",
+          title: 'Poster on ViDScribe accepted to CHI EA’26',
           description: "",
           section: "News",},{id: "projects-vidscribe",
           title: 'ViDscribe',
